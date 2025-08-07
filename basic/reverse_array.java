@@ -13,5 +13,6 @@ public class reverse_array {
         for(int i=0;i<x;i++){
             System.out.print(arr[i]+" ");
         }
+        
     }
 }
